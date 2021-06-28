@@ -26,7 +26,6 @@ Exemplo de um style2.css concluído:
 
 [Exemplo de Design 2](https://s3.us-east-2.amazonaws.com/images.kenzie.academy/frontend-se/completed-screenshot2.png)
 
-## Envio
 
 ### Envio
 
