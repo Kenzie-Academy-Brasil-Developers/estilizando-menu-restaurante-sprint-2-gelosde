@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Supermercado+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100&display=swap');
 /* Use the 'Lato' font family at 18px throughout the body of the document, and cover the background with the 'map-bg.jpg' image. */
 nav {
     font-family: sans-serif; 
@@ -6,7 +7,7 @@ nav {
    
 }
 body{
-    font-family: 'Supermercado One',cursive;
+    font-family: 'Lato',cursive;
     font-size: 18px;
     background-color: black;
 }
@@ -41,6 +42,7 @@ section {
 h2 {
     margin: 0;
     color: #6d4c41;
+     font-variant: small-caps;
     }
 
 /* Make the name of each menu item appear in bold in a 20px size. */
