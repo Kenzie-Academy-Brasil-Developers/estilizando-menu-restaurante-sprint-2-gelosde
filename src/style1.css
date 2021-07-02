@@ -42,6 +42,7 @@ section {
 h2 {
     margin: 0;
     color: #6d4c41;
+    font-variant:small-caps;
     }
 
 /* Make the name of each menu item appear in bold in a 20px size. */
@@ -49,8 +50,8 @@ h2 {
 dd {margin: 0 0 12px 0; display: flex;
 }
 .negrito{
-    font-weight: bold;
-    font-size: 20px;
+ font-weight: bold;
+ font-size: 20px;
 }
 
 .details {
@@ -66,7 +67,7 @@ dd {margin: 0 0 12px 0; display: flex;
 
 /* Draw a 2px dashed rosybrown border around the address/footer */
 address {
-    border-style:dotted;
+    border-style:dashed;
     border-color:rosybrown;
     border-width: 2px;
     padding: 5px;}
