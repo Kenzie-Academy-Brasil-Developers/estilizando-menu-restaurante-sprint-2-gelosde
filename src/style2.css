@@ -36,6 +36,7 @@ text-transform: uppercase;
 dt {
 display: inline;
 font-weight: bold;
+font-size: 16px;
 }
 dt::after{
     content: ",";
